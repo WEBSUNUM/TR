@@ -1,0 +1,12 @@
+html,body{
+    background: radial-gradient(#560000, #000000);
+    color: #fff;
+}
+
+p{
+    text-align: center;
+}
+
+#app > div > div > div.landing-header{
+    display: none;
+}
